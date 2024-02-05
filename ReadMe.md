@@ -19,7 +19,7 @@ This repository used to be part of [another guide](https://github.com/2b-t/docke
 This guide is structured in four chapters:
 
 - [**Motivation**](./doc/Motivation.md): Tries to give you good reasonds for why you should use Docker as a company or research institution.
-- [**Introduction to Docker and Docker-Compose**](./doc/Introduction.md): Introduces fundamental concepts of container-based development.
+- [**Introduction to Docker and Docker-Compose - Docker installation**](./doc/Introduction.md): Introduces fundamental concepts of container-based development.
 - [**Set-up with Visual Studio Code**](./doc/VisualStudioCodeSetup.md): Walks you through the set-up of containers with Visual Studio Code.
 - [**Graphic user interfaces and Docker**](./doc/Gui.md): Discusses the challenges of using Docker with graphic user interfaces and presents workarounds.
 - [**ROS and Docker**](./doc/Ros.md): Discusses best-practices of Docker and ROS/ROS 2.
